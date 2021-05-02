@@ -1,6 +1,6 @@
 # Multicore-Programming-CNN
 
-<h1>구체적인 내용은 CNN 최종 발표 PPT 참조</h1><br>
+<h3>구체적인 내용은 CNN 최종 발표 PPT 참조</h3><br>
 실행시간: 20분->100초<br>
 
 CNN을 이용하여 사진의 물체를 판정하는 코드가 주어졌습니다.<br>
